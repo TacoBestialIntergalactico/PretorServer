@@ -1,0 +1,274 @@
+{
+    "Account": {
+        "name": "Leonardo Hernandez",
+        "email": "leonardohdz23@gmail.com",
+        "role": "Host",
+        "phone": "449 424 XXXX",
+        "creditcardService": "Banco Azteca",
+        "creditcardType": "MasterCard",
+        "creditcard": "4681 XXXX XXXX XX56",
+        "roomID": "B-22",
+        "staydate": "10/12/2024-02/01/2025"
+    },
+    "MenuES": {
+        "Components": {
+            "Home": "Resort - Apline Heights",
+            "Account": "Cuenta",
+            "Room": "Habitación",
+            "Hosting": "Alojamiento",
+            "Devices": "Dispositivos",
+            "Search": "Buscar",
+            "Settings": "Configuraciones",
+            "Services": "Servicios",
+            "Activities": "Actividades",
+            "ActivityDetails": "Detalles de la Actividad",
+            "Restaurant": "Restaurante",
+            "RoomServices": "Servicios de Cuarto",
+            "Spa": "Spa"
+        },
+        "App": {
+            "beaconplus": "Nueva Conexión",
+            "add": "Añadir",
+            "settingsC1": "Conexión automática a dispositivos IoT",
+            "settingsC2": "Pago automático por servicios adicionales",
+            "settingsC3": "Notificaciones de eventos",
+            "settingsC4": "Recibir recibos de pago por correo electrónico",
+            "DLmode": "Modo Oscuro",
+            "room": "Cuarto",
+            "accDetails": "Detalles de la cuenta",
+            "update": "Actualizar",
+            "creditcard": "Tarjeta de Credito",
+            "membership": "Membresia",
+            "tierPremium": "Premium",
+            "lengthStay": "Tiempo de Estadía",
+            "addDevice": "Añadir dispositivo",
+            "addNDevice": "Añadir Nuevo Dispositivo",
+            "device": "Nombre del Dispositivo",
+            "makeReservation": "Hacer una Reservación",
+            "callingRestaurant": "Llamando al Restaurante",
+            "callRService": "Llamar a Servicio de Cuarto",
+            "callingRService": "Llamando a Servicio de Cuarto"
+        },
+        "Membership": {
+            "tierPremium": "La membresía premium del hotel le da acceso a diversas actividades dentro del hotel de forma gratuita, a excepción de las bebidas alcohólicas que pueda consumir durante su estadía."
+        },
+        "Room": {
+            "roomdescription": "Habitación de hotel genérica utilizada simplemente como marcador de posición para un proyecto de desarrollo de aplicaciones móviles multiplataforma."
+        },
+        "Activities": [
+            {
+                "id": 1,
+                "title": "Resort - Valle Real",
+                "description": "Experimenta el esquí de clase mundial en las pistas prístinas de Valle Real. Perfecto para todos los niveles de habilidad, nuestros senderos bien cuidados y nuestros instructores expertos aseguran una aventura inolvidable.",
+                "activity": "Ubicado en el corazón de una cadena montañosa prístina cubierta de nieve, Royal Valley Mountain Resort ofrece una escapada incomparable al país de las maravillas invernales de la naturaleza. Este lujoso resort está diseñado para ofrecer a los huéspedes una combinación perfecta de comodidad, aventura y tranquilidad.\n\nRoyal Valley cuenta con una variedad de alojamientos, desde acogedoras cabañas hasta elegantes suites, todas con impresionantes vistas de los picos nevados circundantes. Cada habitación está equipada con comodidades modernas, lo que garantiza una estadía cómoda y memorable.\n\nYa sea que sea un ávido esquiador, un entusiasta del snowboard o simplemente busque relajarse, Royal Valley tiene algo para todos. Disfrute del esquí y el snowboard de clase mundial en nuestras pistas bien preparadas, o realice una tranquila caminata con raquetas de nieve por los serenos senderos del bosque. Para aquellos que buscan relajación, nuestro spa ofrece una variedad de tratamientos para rejuvenecer su cuerpo y mente."
+            },
+            {
+                "id": 2,
+                "title": "Montañas Mustang",
+                "description": "Embárcate en un viaje de senderismo por la belleza escarpada de las Montañas Mustang. Descubre monasterios antiguos, vibrantes formaciones rocosas y picos nevados impresionantes.",
+                "activity": "Las montañas Mustang, una impresionante cordillera de picos nevados, ofrecen una impresionante escapada a la grandeza de la naturaleza. Ubicadas en una región remota y árida de las montañas trans-Himalaya, estas montañas son una joya escondida para aventureros y amantes de la naturaleza por igual.\n\nLas montañas Mustang son famosas por sus paisajes dramáticos, con altos acantilados rocosos de formaciones inusuales y colores vibrantes. Los picos cubiertos de nieve crean un impresionante contraste con el terreno árido, lo que lo convierte en un paraíso para fotógrafos y exploradores.\n\nBordeando con el Tíbet, la región de Mustang está impregnada de una rica cultura tibetana. Los visitantes pueden explorar antiguos monasterios, descubrir intrincadas pinturas rupestres y experimentar las tradiciones únicas de las comunidades locales. La zona también es conocida por sus fascinantes cuevas, que han sido utilizadas durante siglos como viviendas y lugares de culto."
+            },
+            {
+                "id": 3,
+                "title": "Esquí",
+                "description": "Explora senderos de invierno serenos con nuestras actividades de raquetas de nieve y esquí de fondo. Sumérgete en la tranquila belleza de bosques cubiertos de nieve y ríos congelados.",
+                "activity": "Ubicado convenientemente entre el impresionante Royal Valley y las majestuosas montañas Mustang, Alpine Heights Resort ofrece una experiencia de esquí excepcional para todos los niveles de entusiastas. Este lujoso complejo es la base perfecta para explorar las prístinas laderas y los impresionantes paisajes de estas dos icónicas cadenas montañosas.\n\nAlpine Heights Resort cuenta con acceso a algunos de los mejores terrenos de esquí y snowboard de la región. Con senderos bien cuidados y una variedad de pistas, desde pendientes suaves para principiantes hasta desafiantes senderos para expertos, hay algo para todos. La escuela de esquí de la estación ofrece clases para todas las edades y niveles de habilidad, lo que garantiza que incluso los principiantes puedan disfrutar de la emoción del esquí.\n\nPara aquellos que buscan explorar más allá de la estación, hay disponibles excursiones guiadas de esquí. Estos recorridos lo llevan a través de la nieve virgen de las montañas Mustang y los senderos escénicos de Royal Valley, ofreciendo una oportunidad única para experimentar la belleza natural de la zona. Los guías experimentados garantizan su seguridad al tiempo que brindan información sobre la geografía y la vida silvestre locales."
+            },
+            {
+                "id": 4,
+                "title": "Paracaidismo",
+                "description": "Siente la adrenalina con nuestra experiencia de paracaidismo en tándem. Vuela sobre los impresionantes paisajes de Royal Valley y las montañas Mustang, capturando vistas inolvidables desde 10,000 pies.",
+                "activity": "Para los buscadores de emociones y los entusiastas de la aventura, Alpine Heights Resort ofrece una emocionante experiencia de paracaidismo que promete ser inolvidable. Ubicado entre el impresionante Royal Valley y las majestuosas montañas Mustang, el complejo ofrece el telón de fondo perfecto para un paracaidismo lleno de adrenalina.\n\nYa sea que sea un saltador por primera vez o un paracaidista experimentado, nuestra experiencia de paracaidismo en tándem está diseñada para garantizar la seguridad y la emoción. Se te emparejará con un instructor profesional que te guiará a través de todo el proceso, desde la sesión informativa previa al salto hasta la emocionante caída libre y el aterrizaje suave. El salto se lleva a cabo desde una altitud de más de 10,000 pies, ofreciendo impresionantes vistas de los picos nevados y los valles que se encuentran debajo.\n\nA medida que surca el cielo, disfrutará de vistas panorámicas de las laderas prístinas de Royal Valley y la belleza escarpada de las montañas Mustang. El contraste entre los picos nevados y el terreno árido crea un espectáculo visual impresionante que es verdaderamente único en esta región."
+            }
+        ],
+        "Devices": [
+            {
+                "name": "Habitación"
+            },
+            {
+                "name": "Luces de la Habitación"
+            },
+            {
+                "name": "Televisión Inteligente"
+            }
+        ],
+        "ExtraServices": {
+            "title": "Spa",
+            "activity": "En Alpine Heights Resort, creemos en brindar a nuestros huéspedes la mejor experiencia de relajación. Nuestra sauna de última generación está diseñada para ayudarlo a relajarse y rejuvenecer después de un día de aventura en las montañas.\n\nBeneficios de la sauna\n\nDesintoxicación: Sudar en la sauna ayuda a eliminar las toxinas de su cuerpo, promoviendo la salud y el bienestar general.\n\nRelajación muscular: El calor de la sauna alivia los músculos y las articulaciones doloridos,  lo que lo convierte en una forma ideal de recuperarse después de esquiar, hacer snowboard o hacer senderismo.\n\nCirculación mejorada: Las sesiones regulares de sauna pueden mejorar la circulación sanguínea, lo que ayuda a reducir la tensión muscular y promueve la curación.\n\nAlivio del estrés: El ambiente tranquilo de la sauna proporciona un escape perfecto del ajetreo y el bullicio, lo que le permite relajarse y desestresarse.\n\nCaracterísticas de la sauna\n\nDiseño moderno:  Nuestra sauna cuenta con un diseño elegante y moderno con asientos cómodos e iluminación ambiental para crear un ambiente sereno.\nControl de temperatura: Ajuste fácilmente la temperatura a sus preferencias para una experiencia personalizada.\nAromaterapia: Mejore su sesión de sauna con una selección de aceites esenciales, diseñados para promover la relajación y el bienestar.\n\nCómo usar la sauna\n\nPreparación:  Antes de entrar en la sauna, toma una ducha rápida para limpiar tu piel. Esto ayuda a abrir los poros y maximizar los beneficios del calor.\n\nDuración: Recomendamos comenzar con una sesión de 10 a 15 minutos. Escuche a su cuerpo y tome descansos según sea necesario.\n\nHidratación: Beba mucha agua antes y después de su sesión de sauna para mantenerse hidratado.\n\nReserva y disponibilidad Nuestra sauna está disponible para todos los huéspedes de Alpine Heights Resort. Puede reservar una sesión a través de nuestro servicio de conserjería o directamente a través de nuestra aplicación móvil. Ya sea que esté buscando relajarse después de un día en las pistas o simplemente quiera disfrutar de un momento de tranquilidad, nuestra sauna es el lugar perfecto para relajarse."
+        },
+        "Services": [
+            {
+                "id": 1,
+                "route": "RoomServiceScreen",
+                "title": "Servicio de Habitación"
+            },
+            {
+                "id": 2,
+                "route": "RestaurantScreen",
+                "title": "Restaurante"
+            },
+            {
+                "id": 3,
+                "route": "SpaServiceScreen",
+                "title": "Spa"
+            }
+        ]
+    },
+    "MenuENG": {
+        "Components": {
+            "Home": "Resort - Apline Heights",
+            "Account": "Account",
+            "Room": "Room",
+            "Hosting": "Hosting",
+            "Devices": "Devices",
+            "Search": "Search",
+            "Settings": "Settings",
+            "Services": "Services",
+            "Activities": "Activities",
+            "ActivityDetails": "Activity Details",
+            "Restaurant": "Restaurant",
+            "RoomServices": "Room Services",
+            "Spa": "Spa"
+        },
+        "App": {
+            "beaconplus": "New Connection",
+            "add": "Add",
+            "settingsC1": "Automatic connection to IoT devices",
+            "settingsC2": "Auto-Pay for extra services",
+            "settingsC3": "Events notifications",
+            "settingsC4": "Receive payment receipts by email",
+            "DLmode": "Dark Mode",
+            "room": "Room",
+            "accDetails": "Account Details",
+            "update": "Update",
+            "creditcard": "Credit Card",
+            "membership": "Membership",
+            "tierPremium": "Premium",
+            "lengthStay": "Length of stay",
+            "addDevice": "Add Device",
+            "addNDevice": "Add New Device",
+            "device": "Device Name",
+            "makeReservation": "Make a Reservation",
+            "callingRestaurant": "Calling Restaurant",
+            "callRService": "Call Room Service",
+            "callingRService": "Calling Room service"
+        },
+        "Membership": {
+            "tierPremium": "The hotel's premium membership gives you access to various activities within the hotel free of charge, except for any alcoholic beverages you may consume during your stay."
+        },
+        "Room": {
+            "roomdescription": "Generic hotel room used simply as a placeholder for a cross-platform mobile application development project."
+        },
+        "Activities": [
+            {
+                "id": 1,
+                "title": "Resort - Royal Valley",
+                "description": "Experience world-class skiing in the pristine slopes of Royal Valley. Perfect for all skill levels, our well-groomed trails and expert instructors ensure an unforgettable adventure.",
+                "activity": "Nestled in the heart of a pristine, snow-covered mountain range, Royal Valley Mountain Resort offers an unparalleled escape into nature’s winter wonderland. This luxurious resort is designed to provide guests with a perfect blend of comfort, adventure, and tranquility.\n\nRoyal Valley boasts a variety of accommodations, from cozy cabins to elegant suites, all offering breathtaking views of the surrounding snowy peaks. Each room is equipped with modern amenities, ensuring a comfortable and memorable stay.\n\nWhether you’re an avid skier, a snowboarding enthusiast, or simply looking to relax, Royal Valley has something for everyone. Enjoy world-class skiing and snowboarding on our well-groomed slopes, or take a peaceful snowshoe hike through the serene forest trails. For those seeking relaxation, our spa offers a range of treatments to rejuvenate your body and mind."
+            },
+            {
+                "id": 2,
+                "title": "Mustang Mountains",
+                "description": "Embark on a trekking journey through the rugged beauty of the Mustang Mountains. Discover ancient monasteries, vibrant rock formations, and breathtaking snowy peaks.",
+                "activity": "The Mustang Mountains, a breathtaking range of snow-capped peaks, offer an awe-inspiring escape into nature’s grandeur. Located in a remote, arid region of the trans-Himalayan mountains, these mountains are a hidden gem for adventurers and nature lovers alike.\n\nThe Mustang Mountains are renowned for their dramatic landscapes, featuring high rocky cliffs of unusual formations and vibrant colors. The snow-covered peaks create a stunning contrast against the arid terrain, making it a paradise for photographers and explorers.\n\nBordering Tibet, the Mustang region is steeped in rich Tibetan culture. Visitors can explore ancient monasteries, discover intricate rock paintings, and experience the unique traditions of the local communities. The area is also known for its fascinating caves, which have been used for centuries as dwellings and places of worship."
+            },
+            {
+                "id": 3,
+                "title": "Ski",
+                "description": "Explore serene winter trails with our snowshoeing and cross-country skiing activities. Immerse yourself in the tranquil beauty of snow-covered forests and frozen rivers.",
+                "activity": "Located conveniently between the stunning Royal Valley and the majestic Mustang Mountains, Alpine Heights Resort offers an exceptional skiing experience for all levels of enthusiasts. This luxurious resort is the perfect base for exploring the pristine slopes and breathtaking landscapes of these two iconic mountain ranges.\n\nAlpine Heights Resort boasts access to some of the best skiing and snowboarding terrains in the region. With well-groomed trails and a variety of runs, from gentle beginner slopes to challenging expert trails, there’s something for everyone. The resort’s ski school offers lessons for all ages and skill levels, ensuring that even first-timers can enjoy the thrill of skiing.\n\nFor those looking to explore beyond the resort, guided ski tours are available. These tours take you through the untouched powder of the Mustang Mountains and the scenic trails of Royal Valley, offering a unique opportunity to experience the natural beauty of the area. Experienced guides ensure your safety while providing insights into the local geography and wildlife."
+            },
+            {
+                "id": 4,
+                "title": "Sky Diving",
+                "description": "Feel the adrenaline rush with our tandem skydiving experience. Soar above the stunning landscapes of Royal Valley and Mustang Mountains, capturing unforgettable views from 10,000 feet.",
+                "activity": "For thrill-seekers and adventure enthusiasts, Alpine Heights Resort offers an exhilarating skydiving experience that promises to be unforgettable. Nestled between the stunning Royal Valley and the majestic Mustang Mountains, the resort provides the perfect backdrop for an adrenaline-pumping skydive.\n\nWhether you’re a first-time jumper or an experienced skydiver, our tandem skydiving experience is designed to ensure safety and excitement. You’ll be paired with a professional instructor who will guide you through the entire process, from the pre-jump briefing to the exhilarating freefall and smooth landing. The jump takes place from an altitude of over 10,000 feet, offering breathtaking views of the snow-capped peaks and valleys below.\n\nAs you soar through the sky, you’ll be treated to panoramic views of the Royal Valley’s pristine slopes and the rugged beauty of the Mustang Mountains. The contrast between the snowy peaks and the arid terrain creates a stunning visual spectacle that is truly unique to this region."
+            }
+        ],
+        "Devices": [
+            {
+                "name": "Room"
+            },
+            {
+                "name": "Room Lights"
+            },
+            {
+                "name": "Smart TV"
+            }
+        ],
+        "ExtraServices": [
+            {
+                "title": "Spa",
+                "activity": "At Alpine Heights Resort, we believe in providing our guests with the ultimate relaxation experience. Our state-of-the-art sauna is designed to help you unwind and rejuvenate after a day of adventure in the mountains.\n\nBenefits of the Sauna\n\nDetoxification: Sweating in the sauna helps to flush out toxins from your body, promoting overall health and well-being.\n\nMuscle Relaxation: The heat from the sauna soothes sore muscles and joints, making it an ideal way to recover after skiing, snowboarding, or hiking.\n\nImproved Circulation: Regular sauna sessions can improve blood circulation, which helps to reduce muscle tension and promote healing.\n\nStress Relief: The tranquil environment of the sauna provides a perfect escape from the hustle and bustle, allowing you to relax and de-stress.\n\nSauna Features\n\nModern Design: Our sauna features a sleek, modern design with comfortable seating and ambient lighting to create a serene atmosphere.\nTemperature Control: Easily adjust the temperature to your preference for a personalized experience.\nAromatherapy: Enhance your sauna session with a selection of essential oils, designed to promote relaxation and well-being.\n\nHow to Use the Sauna\n\nPreparation: Before entering the sauna, take a quick shower to cleanse your skin. This helps to open your pores and maximize the benefits of the heat.\n\nDuration: We recommend starting with a 10-15 minute session. Listen to your body and take breaks as needed.\n\nHydration: Drink plenty of water before and after your sauna session to stay hydrated.\n\nBooking and Availability Our sauna is available to all guests of Alpine Heights Resort. You can book a session through our concierge service or directly via our mobile app. Whether you’re looking to relax after a day on the slopes or simply want to enjoy some quiet time, our sauna is the perfect place to unwind."
+            }
+        ],
+        "Services": [
+            {
+                "id": 1,
+                "route": "RoomServiceScreen",
+                "title": "Room Service"
+            },
+            {
+                "id": 2,
+                "route": "RestaurantScreen",
+                "title": "Restaurant"
+            },
+            {
+                "id": 3,
+                "route": "SpaServiceScreen",
+                "title": "Spa"
+            }
+        ]
+    },
+    "Images": {
+        "logo": {
+            "image": "http://10.1.1.2:3000/images/Pretor.png"
+        },
+        "Room": {
+            "roomImage": "http://10.1.1.2:3000/images/RoomB-22.png",
+            "hotelMap": "http://10.1.1.2:3000/images/HotelMap.png"
+        },
+        "Activities": [
+            "http://10.1.1.2:3000/images/ImgAct01.jpg",
+            "http://10.1.1.2:3000/images/ImgAct02.jpg",
+            "http://10.1.1.2:3000/images/ImgAct03.jpg",
+            "http://10.1.1.2:3000/images/ImgAct04.jpg"
+        ],
+        "ExtraServices": [
+            "http://10.1.1.2:3000/images/ImgServ03.png"
+        ],
+        "Services": [
+            "http://10.1.1.2:3000/images/ImgServ01.png",
+            "http://10.1.1.2:3000/images/ImgServ02.png",
+            "http://10.1.1.2:3000/images/ImgServ03.png"
+        ],
+        "RoomService": [
+            "http://10.1.1.2:3000/images/RoomServ01.png",
+            "http://10.1.1.2:3000/images/RoomServ02.png",
+            "http://10.1.1.2:3000/images/RoomServ03.png",
+            "http://10.1.1.2:3000/images/RoomServ04.png",
+            "http://10.1.1.2:3000/images/RoomServ05.png",
+            "http://10.1.1.2:3000/images/RoomServ06.png",
+            "http://10.1.1.2:3000/images/RoomServ07.png",
+            "http://10.1.1.2:3000/images/RoomServ08.png",
+            "http://10.1.1.2:3000/images/RoomServ09.png",
+            "http://10.1.1.2:3000/images/RoomServ10.png",
+            "http://10.1.1.2:3000/images/RoomServ11.png",
+            "http://10.1.1.2:3000/images/RoomServ12.png"
+        ],
+        "Restaurant": [
+            "http://10.1.1.2:3000/images/RoomServ01.png",
+            "http://10.1.1.2:3000/images/RoomServ02.png",
+            "http://10.1.1.2:3000/images/RoomServ03.png",
+            "http://10.1.1.2:3000/images/RoomServ04.png",
+            "http://10.1.1.2:3000/images/RoomServ05.png",
+            "http://10.1.1.2:3000/images/RoomServ06.png",
+            "http://10.1.1.2:3000/images/RoomServ07.png",
+            "http://10.1.1.2:3000/images/RoomServ08.png",
+            "http://10.1.1.2:3000/images/RoomServ09.png",
+            "http://10.1.1.2:3000/images/ResServ10.png",
+            "http://10.1.1.2:3000/images/ResServ11.png",
+            "http://10.1.1.2:3000/images/ResServ12.png"
+        ]
+    }
+}
